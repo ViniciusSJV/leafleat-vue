@@ -1,3 +1,6 @@
+# Desc
+Projeto feito inteiramente em VUE.JS com uso da biblioteca VUEX com o Leafleat. 
+
 # agile-process-optimizer
 
 > A Vue.js project
