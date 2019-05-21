@@ -1,5 +1,5 @@
 # Desc
-Projeto feito inteiramente em VUE.JS com uso da biblioteca VUEX com o Leafleat. 
+Projeto feito inteiramente em VUE.JS com uso da biblioteca VUEX para criação de um sistema de rotas completo com o Leaflet. 
 
 # agile-process-optimizer
 
